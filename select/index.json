@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "Modern Jesus",
+  "base_artist": "Portugal. The Man",
+  "createdAt": "2025-12-30T06:32:36.303062Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Modern Jesus",
+      "artist": "Portugal. The Man",
+      "has_synced": true,
+      "path": "select/01_Modern_Jesus_Portugal._The_Man.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Modern Jesus - Charli XCX Remix",
+      "artist": "Portugal. The Man",
+      "has_synced": true,
+      "path": "select/02_Modern_Jesus_-_Charli_XCX_Remix_Portugal._The_Man.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Modern Jesus (Charli XCX remix)",
+      "artist": "Portugal. The Man",
+      "has_synced": true,
+      "path": "select/03_Modern_Jesus_(Charli_XCX_remix)_Portugal._The_Man.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Modern Jesus - Mike D Remix",
+      "artist": "Portugal. The Man",
+      "has_synced": true,
+      "path": "select/04_Modern_Jesus_-_Mike_D_Remix_Portugal._The_Man.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Modern Jesus (Mike D remix)",
+      "artist": "Portugal. The Man",
+      "has_synced": true,
+      "path": "select/05_Modern_Jesus_(Mike_D_remix)_Portugal._The_Man.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Modern Jesus",
+      "artist": "Portugal. The Man",
+      "has_synced": true,
+      "path": "select/06_Modern_Jesus_Portugal._The_Man.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Modern Jesus",
+      "artist": "Portugal. The Man",
+      "has_synced": true,
+      "path": "select/07_Modern_Jesus_Portugal._The_Man.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Modern Jesus (Charli XCX vs TWIN iDoL Remix)",
+      "artist": "Portugal. The Man",
+      "has_synced": true,
+      "path": "select/08_Modern_Jesus_(Charli_XCX_vs_TWIN_iDoL_Remix)_Portugal._The_Man.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Modern Jesus",
+      "artist": "Portugal. The Man",
+      "has_synced": true,
+      "path": "select/09_Modern_Jesus_Portugal._The_Man.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Modern Jesus",
+      "artist": "Portugal. The Man",
+      "has_synced": true,
+      "path": "select/10_Modern_Jesus_Portugal._The_Man.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Modern Jesus",
+      "artist": "Portugal. The Man",
+      "has_synced": false,
+      "path": "select/pl_01_Modern_Jesus_Portugal._The_Man.txt"
+    }
+  ]
+}
